@@ -1,0 +1,334 @@
+
+.start{
+	color: black;
+	background-color: orange;
+	text-align: center;
+}
+
+hr{
+	color: orange;
+}
+ ol {
+	list-style-type: none;
+}
+.parent{
+	position: absolute;
+	padding-left: 120px;
+	padding-right: 60px;
+	margin-left: 40px;
+	height: 60px;
+	margin-right: 20px;
+	width: 100px;
+	align-content: center
+}
+
+.left-side
+{
+	left:10% !important;
+	position: relative;
+	bottom: 0%;
+	top:20%;
+	left:50%;
+	right: 60%;
+	width: 55%;
+	height: 400px;
+	background-color: black ;
+	color: white;
+	font-style:italic;
+	text-align: left; 
+    opacity: 0.5;
+     filter: alpha;
+   margin-top: 220px;
+   margin-right: 200px;
+   margin-left: 50px;
+
+}
+
+button  {
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+    font-style: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+      -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: 70px;
+    margin-bottom: 30px;
+	padding: 5px 25px;
+}
+
+.content{
+	padding-top: 30px;
+	font-style: italic;
+	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+	color: #ffffff;
+	margin-left: 70px;
+	opacity: none;
+}
+
+.unleash{
+	opacity: none;
+	font-style: italic;
+	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+	color: #ffffff;
+	margin-left: 70px;
+}
+button:hover{
+	background-color: none;
+	color: orange;
+	border: 1px solid orange;
+}
+.undandyimg{
+	text-align: center;
+}
+
+.sentence{
+	text-align: center;
+	padding: 40px;
+	font-size: 20px;
+}
+
+.block{
+	background-color: white;
+	width: 100%;
+	height: 85px;
+	display: inline-block;
+}
+
+.leading {
+	padding-top: 30px;
+	text-align: center;
+	font-size: 15px;
+}
+
+.designshoe{
+
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	font-style: italic;
+}
+
+.product-card{
+	background-color: white;
+	
+}
+.black{
+	color: black;
+}
+.height-250{
+	
+	height: 400px;
+	width: 400px;
+	margin: auto;
+}
+.contemp  {
+	font-style:normal;	
+	padding-left: 25%;
+	color: gray;
+}
+
+.art{
+	padding-left: 25%;
+	font-size: 28px;
+	font-style: italic; 
+	
+	font-family: "Times New Roman", Times, serif;
+}
+.tab{
+	padding-left: 35%;
+	color: black;
+	
+	
+	
+	}
+
+.transperent{
+	font-weight: 30%;
+	font-size: 15px;
+	font-style: normal;
+	color: gray;
+	padding-left: 10px;
+	font-family: "Times New Roman", Times, serif;
+}
+.text{
+	padding-right: 40%;
+	padding-left: 8%
+}
+.strke{
+	font-size: 25px;
+	font-style: italic;
+	padding-right: 40%;
+	padding-left: 8%
+
+}
+
+.creme{
+	font-size: 15px;
+	padding-right: 40%;
+	padding-left: 8%
+}
+
+.name{
+	text-align: center;
+	font-style: bold;
+}
+
+.come{
+	text-align: center;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 45px;
+}
+
+.height-50{
+	height: 200px;
+	width: 300px;
+	padding-left: 20%;	
+}
+.height-260{
+	height: 400px;
+	width: 550px;
+	padding-left: 20%;	
+}
+.behind{
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.lit1{
+	height: 50px;
+	width: 40px;
+	padding-left: 80px;
+	padding-right: 20px;
+}
+.lit2{
+	height: 40px;
+	width: 30px;
+	padding-right: 50px;
+}
+
+.lit{	
+	font-style: italic;
+	font-size: 30px;
+	font-family: "Times New Roman", Times, serif;
+	}
+
+.invest{
+	font-style: italic;
+	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+	}
+
+.container{
+	text-align: center;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
+}
+
+.paragraph{
+	text-align: center;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
+
+.box{
+	width:100%;
+	height:210px;
+	background-color: #E0E0E0;
+	margin:0px auto;
+	display: inline-block;
+     padding-left: 30px;
+}
+
+.details{
+	padding-top: 10px;
+	text-align: center;
+	color:black;
+	font-style: bold;
+	font-weight: 25px;
+}
+
+.customer{
+	text-align: center;
+	color:orange;
+	font-style: bold;
+	font-weight: 25px;
+}
+
+.para{
+	text-align: center;
+	font-style: bold;
+	font-weight: 8px;
+
+}
+
+.get{
+	padding-top: 20px;
+	text-align: center;
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 40px;
+}
+.may{
+	font-style: italic;
+	font-size: 18px;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.box2{
+	width:100%;
+	height:100px;
+	background-color:orange;
+	margin:0px auto;
+	display: inline-block;
+
+ }
+
+ .apply{
+
+ 	padding-top: 20px;
+ 	font-style: italic;
+ 	text-align: center;
+ 	color: black;
+ 	font-family:  "Times New Roman", Times, serif;
+ 	font-size: 30px;
+ }
+
+footer{
+	background-color: #E0E0E0;
+}
+
+.button3{
+	color: black;
+	border: 1px solid black;
+	padding: 5px 20px;
+	margin-left: 20px;
+}
+
+.btn{
+	color:orange;
+	border:1px solid orange;
+	font-style: bold;
+	padding: 5px 30px;
+}
+.btn:hover
+	{
+	background-color: orange;
+	color: white;
+	border: 1px solid orange;
+}
+
+.icon{
+	font-size: 30px;
+}
